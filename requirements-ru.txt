@@ -1,0 +1,3 @@
+# Optional: lemma-based matching for Russian word forms in the classifier.
+pymorphy3>=2.0
+pymorphy3-dicts-ru
