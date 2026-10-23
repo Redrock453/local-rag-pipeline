@@ -1,6 +1,0 @@
-[
-  {"input": "How do I start my docker compose stack in the background?"},
-  {"input": "Why does nginx reload fail after I edit the config?"},
-  {"input": "/status"},
-  {"input": "Tell me something about the weather", "expect": "out_of_scope"}
-]
